@@ -1,0 +1,1 @@
+用户id: <?php echo $id; ?>
