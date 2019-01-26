@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Where there's a will, there's a way.<br>
+                    易小菜🍀
                 </div>
 
                 <div class="links">
