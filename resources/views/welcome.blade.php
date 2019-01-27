@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Cuckoo</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Where there's a will, there's a way.<br>
-                    易小菜VS郑博文🍀
+                    易小菜🍀
                 </div>
 
                 <div class="links">
