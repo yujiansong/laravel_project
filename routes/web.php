@@ -375,6 +375,6 @@ Route::get('admin', 'AdminController@index')->name('admin.home');
 Route::get('/login', 'Web\AppController@getLogin')
     ->name('login')
     ->middleware('guest');
-
+//自定义路由
 Route::get('/auth/{social}', 'Web\AuthenticationController@getSocialRedirect')->middleware('guest');
 Route::get('/auth/{social}/callback', 'Web\AuthenticationController@getSocialCallback')->middleware('guest');
