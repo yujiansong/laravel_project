@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Where there's a will, there's a way.<br>
-                    易小菜🍀
+                    易小菜VS郑博文🍀
                 </div>
 
                 <div class="links">
